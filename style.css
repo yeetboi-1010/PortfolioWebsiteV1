@@ -1,0 +1,13 @@
+#loficlick {
+    color:blue;
+}
+
+body {
+    text-align: left;
+    font-family: 'Helvetica','Arial';
+    background: rgb(224, 224, 224);
+}
+
+#intro {
+    text-align: center;
+}
