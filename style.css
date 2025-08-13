@@ -4,10 +4,18 @@
 
 body {
     text-align: left;
-    font-family: 'Helvetica','Arial';
+    font-family: 'Roboto','Arial';
     background: rgb(224, 224, 224);
+    margin: 0px;
 }
 
 #intro {
     text-align: center;
+}
+
+header {
+    background-color: rgb(157, 157, 157);
+    height: 50px;
+    border-bottom: 2px solid rgb(53, 53, 53);
+    width: 100%;
 }
