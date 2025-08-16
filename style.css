@@ -19,3 +19,19 @@ header {
     border-bottom: 2px solid rgb(53, 53, 53);
     width: 100%;
 }
+
+#RetroComputerPixelArt {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+
+    width: 250px;
+    height: auto;
+
+    display: inline-block;
+    animation: wobble 5s infinite alternate;
+}
+
+@keyframes wobble {
+    0% {transform: rotate(10deg);}
+    100% {transform: rotate(-10deg);}
+}
