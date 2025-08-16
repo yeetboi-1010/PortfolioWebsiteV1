@@ -1,1 +1,2 @@
-A personal portfolio website I'm making. Started with another website, but decided to start fresh with a new one.
+Hello! This is a little website I'm working on that will contiuously get updated as I make new stuff. (replace old website called "Luca's Hackclub Journey")
+Take a look at my projects, listen to some chill lo-fi, and even discover... secrets hidden in the page?
