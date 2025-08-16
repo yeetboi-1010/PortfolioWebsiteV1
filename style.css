@@ -6,7 +6,7 @@ body {
     text-align: left;
     font-family: 'Roboto','Arial';
     background: rgb(224, 224, 224);
-    margin: 0px;
+    margin: 10px;
 }
 
 #intro {
@@ -34,4 +34,12 @@ header {
 @keyframes wobble {
     0% {transform: rotate(10deg);}
     100% {transform: rotate(-10deg);}
+}
+
+#Secret-Cookie {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+
+    width: 150px;
+    height: auto;
 }
