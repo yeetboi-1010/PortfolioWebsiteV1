@@ -43,3 +43,11 @@ header {
     width: 150px;
     height: auto;
 }
+
+#ErrorLogo {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+
+    width: 250px;
+    height: auto;
+}
